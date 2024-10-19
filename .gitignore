@@ -51,3 +51,6 @@ manage.py
 
 # example database
 drf_example
+
+# database
+db.sqlite3
